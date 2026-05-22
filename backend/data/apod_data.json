@@ -30710,5 +30710,13 @@
         "image_url": "https://apod.nasa.gov/apod/image/2605/a2029.jpg",
         "explanation": "\n Explanation: \n\n    This big beautiful spiral shines in X-ray light. It is about 20 times larger than our Galaxy.\n\n    It belongs to Abell 2029, a galaxy cluster one billion light-years away.\n\n    (To see only the galaxies, hover your cursor over the image, or follow this link.) \n    \n    Galaxy clusters are the largest structures in the universe that are supported by gravity.\n    \n    Abell 2029 is formed by thousands of galaxies, surrounded by a huge cloud of hot gas and the equivalent of hundreds of trillions times the mass of the Sun in dark matter.\n    \n    The spiral is made of gas, mostly hydrogen and helium, heated to tens of millions of degrees.\n    \n    It was found in a recent study that used data from NASA's Chandra X-ray Observatory to show that Abell 2029 had a collision with a smaller cluster four billion years ago.\n    \n    The collision affected the gravitational field and caused the intracluster gas to slosh, like wine moving in a wine glass, shaping the spiral.\n    \n    \n",
         "authors": "X-ray: NASA/CXC/CfA/C. Watson et al., Optical: PanSTARRS, Image Processing: NASA/CXC/SAO/N. Wolk and P. Edmonds Text: Cecilia Chirenti (NASA GSFC, UMCP, CRESST II)"
+    },
+    {
+        "date": "2026 May 22:",
+        "title": "The Nebulous Realm of WR 134",
+        "url": "https://apod.nasa.gov/apod/ap260522.html",
+        "image_url": "https://apod.nasa.gov/apod/image/2605/WR134morrone1024.jpg",
+        "explanation": "\n Explanation: \nThis cosmic snapshot\ncovers a field of view over twice as wide as the full Moon within the\nboundaries of the high-flying constellation Cygnus.\n\nMade using astronomical narrowband filters, the image\nhighlights the bright edge of a ring-like nebula traced by the\nglow of ionized hydrogen and oxygen gas.\n\nEmbedded in\nthe region's expanse of interstellar clouds,\nthe complex, glowing arcs are sections of shells of material\nswept up by the wind from\nWolf-Rayet star WR 134,\nthe brightest star near image center.\n\nDistance estimates put WR 134 about 6,000 light-years away, making\nthis telescopic frame over 100 light-years across.\n\nShedding\ntheir outer envelopes in powerful stellar winds,\nmassive Wolf-Rayet stars have burned through their nuclear fuel at a\nprodigious\nrate\nand end their final phase of massive star evolution in\na spectacular supernova.\n\nTheir stellar winds and final supernova explosion\nenrich the interstellar material with\nheavy elements\nto be incorporated in\nfuture generations of\nstars.\n\n",
+        "authors": "Luigi Morrone and Telescope Live"
     }
 ]
